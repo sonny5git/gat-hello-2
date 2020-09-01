@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        baseUrl: `digitalmktagency.local`, // codingsrc.com
+        baseUrl: `51ca764954f3.ngrok.io`, // codingsrc.com
         protocol: `http`, // https
         hostingWPCOM: false,
       },
